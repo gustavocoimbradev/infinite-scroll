@@ -2,7 +2,7 @@
 
 ## 📸 Screenshot
 
-![](https://user-images.githubusercontent.com/115879524/226665959-2d46ba8a-49da-4e28-9a07-6696799c2a32.gif | width=250)
+<img src="https://user-images.githubusercontent.com/115879524/226665959-2d46ba8a-49da-4e28-9a07-6696799c2a32.gif" data-canonical-src="https://user-images.githubusercontent.com/115879524/226665959-2d46ba8a-49da-4e28-9a07-6696799c2a32.gif" width="200" />
 
 ## 👨🏻‍💻 Tech
 
