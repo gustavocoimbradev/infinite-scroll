@@ -2,10 +2,7 @@
 
 ## 📸 Screenshot
 
-
-<video width="320" height="240" controls>
-  <source src="https://user-images.githubusercontent.com/115879524/226666799-54dd2b21-5069-4c22-bbd9-fd41193c7d80.mp4" type="video/mp4">
-</video>
+![](https://user-images.githubusercontent.com/115879524/226671912-c664b00b-47de-415c-afd0-6229cbed8e7a.jpg)
 
 ## 👨🏻‍💻 Tech
 
