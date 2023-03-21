@@ -57,7 +57,7 @@ function ListItem({ data }) {
 
 function FooterList({ load }) {
 
-  if(!load){ return; }
+  if(!load){ return null; }
 
   return (
     <View style={styles.loading}>
